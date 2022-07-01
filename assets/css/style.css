@@ -16,8 +16,8 @@ font-family: 'Work Sans', sans-serif;
 
 /* Div Headline */
 .div-headline {
-    margin:80px auto 50px auto;
-    width: 500px;   
+    margin: 80px auto 50px auto;
+    width: 500px;
     font-size: 50px;
     font-weight: lighter;
     font-family: 'Didact Gothic', sans-serif;
@@ -26,10 +26,10 @@ font-family: 'Work Sans', sans-serif;
 
 
 /* Foto 1 */
-.div-img-footos{
+.div-img-footos {
     width: 720px;
     height: 1080px;
-    margin:0 auto;
+    margin: 0 auto;
 }
 
 img {
@@ -56,6 +56,41 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
-    margin:0 auto;
+    margin: 0 auto;
     text-align: center;
+    height: 826px;
+
 }
+
+.div-img-footos2 h3 {
+    color: white;
+    font-size: 112px;
+    font-family: 'Didact Gothic', sans-serif;
+    font-weight: 400;
+    width: 309px;
+    height: 147px;
+    left: 220px;
+    top: 2154px;
+    font-style: normal;
+}
+
+p {
+    font-family: 'Didact Gothic', sans-serif;
+    color: gray;
+    width: 309px;
+    height: 147px;
+    left: 220px;
+    top: 2154px;
+}
+
+.2019{
+    border:3px solid ;
+    padding:
+}
+
+p a{
+    border:3px solid lightgrey;
+    color:white;
+    
+}
+
