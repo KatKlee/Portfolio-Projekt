@@ -46,3 +46,18 @@ h2 {
     text-transform: uppercase;
 
 }
+
+.div-img-footos2{
+
+
+height: 826px;
+margin:0 auto;
+width:100vw;
+
+
+
+}
+
+.div-img-footos2 img{
+object-fit: cover;
+}
